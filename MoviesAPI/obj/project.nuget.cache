@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "exHd807Pc7Q=",
+  "dgSpecHash": "17/OPqJmWXs=",
   "success": true,
   "projectFilePath": "C:\\Users\\Jhonatan Medeiros\\OneDrive\\Documentos\\projetos\\MoviesAPI\\MoviesAPI\\MoviesAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Jhonatan Medeiros\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.2\\microsoft.aspnetcore.openapi.9.0.2.nupkg.sha512",
-    "C:\\Users\\Jhonatan Medeiros\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+    "C:\\Users\\Jhonatan Medeiros\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512",
+    "C:\\Users\\Jhonatan Medeiros\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\7.2.0\\swashbuckle.aspnetcore.swaggerui.7.2.0.nupkg.sha512"
   ],
   "logs": []
 }
